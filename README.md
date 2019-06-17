@@ -9,9 +9,9 @@
     b. Namespace - CRMAzureBusIntegration.Subscribers
     c. CRM - CRM Connection String
     
-Create azure service bus 
+Create azure service bus: 
 https://docs.microsoft.com/en-us/azure/service-bus-messaging/service-bus-quickstart-portal
 
-Configure azure service bus for CRM
+Configure azure service bus for CRM: 
 https://community.dynamics.com/365/b/ajitpatra365crm/archive/2018/09/26/azure-service-bus-queue-integration-with-d365-part-1
     
