@@ -1,4 +1,4 @@
-# Azure
+# Azure Service Bus Integration
 
 1. This project connects CRM online instance to azure service bus.
 2. It can be configured and extended for any CRM entity.
